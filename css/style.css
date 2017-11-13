@@ -1190,7 +1190,6 @@ em strong, i strong, em bold, i bold, strong em, strong i, bold em, bold i {
     right: -5px;
     bottom: -5px;
     z-index: 1;
-    background: #f9f9f9;
     display: block; }
 
 .step-no {
@@ -2307,4 +2306,32 @@ em strong, i strong, em bold, i bold, strong em, strong i, bold em, bold i {
 .ogranized-by-logo{
 	max-width:100px;
 	height: auto;
+}
+
+.sponsors-list {
+    width: 100%;
+    text-align:center;
+}
+
+.sponsors-list a img {
+    display: inline-block;
+    max-width: 146px;
+    height: auto;
+    margin: 20px;
+}
+
+.max-width-gold {
+    max-width: 242px !important;
+}
+
+.max-width-silver {
+    max-width: 184px !important;
+}
+
+.margin-60-0 {
+    margin: 60px 0;
+}
+
+.divider {
+    background-color: #f4f7fc;
 }
