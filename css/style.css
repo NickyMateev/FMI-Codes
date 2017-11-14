@@ -2335,3 +2335,7 @@ em strong, i strong, em bold, i bold, strong em, strong i, bold em, bold i {
 .divider {
     background-color: #f4f7fc;
 }
+
+.vmware-special {
+    max-width: 340px !important;
+}
