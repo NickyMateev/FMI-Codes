@@ -2339,3 +2339,15 @@ em strong, i strong, em bold, i bold, strong em, strong i, bold em, bold i {
 .vmware-special {
     max-width: 340px !important;
 }
+
+.accedia-special {
+    max-width: 268px !important;
+    width: 100%;
+}
+
+.fss-special {
+  margin: 0 auto;
+  max-width:40%;
+  height: auto;
+  padding-top:5px;
+}
