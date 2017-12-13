@@ -6,3 +6,84 @@
 .sml-scrn-tog-btn {
   right: 20px;
 }
+
+.coach-name {
+  font-weight: bold;
+}
+
+.organization {
+  color: #47a9ef;
+  font-weight: bold;
+  margin: 0.5em;
+}
+
+.coach-expertise {
+  margin: 0.5em;
+  color: black;
+  font-weight: bold;
+}
+
+.rounded-circle {
+  border-radius:50% !important
+}
+
+.img-fluid {
+  max-width:100%;
+  height:auto
+}
+
+.skills {
+  margin-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skill {
+  float: left;
+  font-size: 12px;
+  margin: 0.5em;
+}
+
+.devicon {
+  font-size: 20px;
+}
+
+.devicon-android-plain-wordmark {
+  color: green;
+}
+
+.devicon-docker-plain {
+  color: #47a9ef;
+}
+
+.fa-lightbulb {
+  color: #fb9e25;
+}
+
+.fa-connectdevelop {
+  color: black;
+}
+
+.devicon-nodejs-plain {
+  color: blue;
+}
+
+.glyphicon-transfer {
+  color: #47a3da;
+}
+
+.fa-globe {
+  color: grey;
+}
+
+.fa-gamepad {
+  color: black;
+}
+
+.devicon-java-plain-wordmark {
+  color: red;
+}
+
+.glyphicon-cloud {
+  color: #47a9ef;
+}
