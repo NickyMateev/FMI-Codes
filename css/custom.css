@@ -17,6 +17,14 @@
   margin: 0.5em;
 }
 
+.sap-org {
+  color: #47a9ef;
+}
+
+.vm-org {
+  color: #565656;
+}
+
 .coach-expertise {
   margin: 0.5em;
   color: black;
