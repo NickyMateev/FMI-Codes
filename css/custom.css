@@ -25,6 +25,10 @@
   color: #565656;
 }
 
+.accedia-org {
+  color: #e13723;
+}
+
 .coach-expertise {
   margin: 0.5em;
   color: black;
@@ -99,4 +103,36 @@
 
 .glyphicon-cloud {
   color: #47a9ef;
+}
+
+.glyphicon-user {
+  color: orange;
+}
+
+.fa-trophy {
+  color: gold;
+}
+
+.glyphicon-tower {
+  color: grey;
+}
+
+.glyphicon-hourglass {
+  color: brown;
+}
+
+.glyphicon-phone {
+  color: silver;
+}
+
+.glyphicon-object-align-bottom {
+  color: #47a9ef;
+}
+
+.fa-tv {
+  color: grey;
+}
+
+.glyphicon-education {
+  color: black;
 }
