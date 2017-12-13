@@ -23,6 +23,11 @@
   font-weight: bold;
 }
 
+.coach-availability {
+  font-weight: bold;
+  font-style: italic;
+}
+
 .rounded-circle {
   border-radius:50% !important
 }
