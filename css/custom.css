@@ -33,6 +33,10 @@
   color: #4267b2;
 }
 
+.komfo-org {
+  color: #4639ab;
+}
+
 .coach-expertise {
   margin: 0.5em;
   color: black;
@@ -147,4 +151,8 @@
 
 .fa-laptop {
   color: black;
+}
+
+.glyphicon-sort {
+  color: green;
 }
