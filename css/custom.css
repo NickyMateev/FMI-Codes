@@ -37,6 +37,10 @@
   color: #4639ab;
 }
 
+.helecloud-org {
+  color: orange;
+}
+
 .coach-expertise {
   margin: 0.5em;
   color: black;
@@ -154,5 +158,17 @@
 }
 
 .glyphicon-sort {
+  color: green;
+}
+
+.glyphicon-signal {
+  color: magenta;
+}
+
+.glyphicon-indent-left {
+  color: blue;
+}
+
+.glyphicon-th {
   color: green;
 }
